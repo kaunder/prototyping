@@ -9,6 +9,7 @@
 **Requirement:** python3
 
 0. Set up python virtual environment
+
 I have been running this in a python virtual environment and this seems to work well to avoid shenanigans with other python versions/libraries on my local machine.
 But this is not a strict requirement - you do you.
 
