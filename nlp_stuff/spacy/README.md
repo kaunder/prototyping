@@ -33,9 +33,9 @@ $ python3 -m pip install --upgrade pip
 
 2. Install required packages:
 ```
-$ python3	-m pip install -U pip setuptools wheel
+$ python3 -m pip install -U pip setuptools wheel
 $ python3 -m pip install spacy
-$ pythohn3 -m spacy download en_core_web_sm
+$ python3 -m spacy download en_core_web_sm
 $ python3 -m pip install pdfplumber
 ```
 
