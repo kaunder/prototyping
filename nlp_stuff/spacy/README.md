@@ -6,21 +6,29 @@
 
 ## Setup
 
-0. Make sure you have python3 installed and that pip is up to date:
-```
-$ python3 -m pip install --upgrade pip
-```
+**Requirement:** python3
 
-1. Set up python virtual environment
+0. Set up python virtual environment
 I have been running this in a python virtual environment and this seems to work well to avoid shenanigans with other python versions/libraries on my local machine.
 But this is not a strict requirement - you do you.
 
 
-To set up the virutal env:
+To set up the virutal env in your working directory:
 ```
 $ python3 -m venv .venv
 $ source .venv/bin/activate
 ```
+
+When you are finished in the virtual environment, you can exit it with
+```
+$ deactivate
+```
+
+1. Make sure pip is up to date:
+```
+$ python3 -m pip install --upgrade pip
+```
+
 
 2. Install required packages:
 ```
