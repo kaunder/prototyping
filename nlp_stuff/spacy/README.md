@@ -41,5 +41,5 @@ $ python3 -m pip install pdfplumber
 
 3. Run it an behold the results at `localhost:5000` !
 ```
-$ python3	process-pdf.py Sample-Contract.pdf
+$ python3	spacy-test.py Sample-Contract.pdf
 ```
